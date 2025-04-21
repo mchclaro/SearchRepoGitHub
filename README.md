@@ -8,7 +8,7 @@
 
 
 ## Funcionalidades Obrigatórias
-### Buscar repositórios públicos por nomehttps://github.com/mchclaro/SearchRepoGitHub/blob/master/README.md
+### Buscar repositórios públicos por nome
 ### Deve ser possível pesquisar por qualquer repositório público no GitHub.
 ### A chamada à API do GitHub deve ser implementada por você. o	API aberta: https://api.github.com
 
@@ -24,7 +24,7 @@
 ### Explique sua escolha de lógica via comentários no código.
 
 
-## O que foi feito no projeto
+✅ ## O que foi feito no projeto
 
 ### Endpoint que faz a busca por repositórios públicos no GitHub: /api/repositories/search?query={nomeDoRepo}
 ### Endpoint que adiciona e remove repositórios dos favoritos salvo em tempo de execução (/api/Repositories/{repositoryId}/favorite)
