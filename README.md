@@ -24,7 +24,8 @@
 ### Explique sua escolha de lógica via comentários no código.
 
 
-✅ ## O que foi feito no projeto
+✅ 
+# O que foi feito no projeto
 
 ### Endpoint que faz a busca por repositórios públicos no GitHub: /api/repositories/search?query={nomeDoRepo}
 ### Endpoint que adiciona e remove repositórios dos favoritos salvo em tempo de execução (/api/Repositories/{repositoryId}/favorite)
